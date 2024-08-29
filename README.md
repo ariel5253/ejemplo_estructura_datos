@@ -1,2 +1,14 @@
-# ejemplo_estructura_datos
-ejemplo_estructura_datos
+# Quiz 2 de estructura de datos
+
+1. Ítems
+2. Ítems
+3. Ítems
+
+* Ítems
+* Ítems
+* Ítems
+
+- Ítems
+- Ítems
+- Ítems
+- Ítems
